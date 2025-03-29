@@ -23,7 +23,7 @@ object Mathfuns4 {
  val small: Int = Int.MinValue
  val mid0: Int = 46340
  val mid1: Int = 46341
-   
+
  def main(args: Array[String]): Unit = {
 
    println( (1 to 10) map (add(_,1)) )
